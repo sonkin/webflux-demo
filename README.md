@@ -1,5 +1,5 @@
 ## WebFlux Demo 
-by Vladimir Sonkin
+by Vladimir Sonkin, Java Expert, Luxoft Training Center
 
 1) Start the server (WebFluxApplication)
 2) Go to http://localhost:8080
